@@ -10,7 +10,7 @@ export default function AboutSection() {
     },
     {
       category: "Database",
-      techs: ["MySQL", "PostgreSQL", "Supabase", "NeonDB"],
+      techs: ["MySQL", "PostgreSQL", "Supabase", "MongoDB"],
     },
     {
       category: "DevOps & Tools",
@@ -48,9 +48,9 @@ export default function AboutSection() {
               positions in multiple organizations including{" "}
               <span className="font-semibold">KMTEDI</span>,{" "}
               <span className="font-semibold">ASSETS UGM</span>, and{" "}
-              <span className="font-semibold">GDG on Campus UGM</span>, where
-              I've led technical teams and organized educational programs for
-              fellow students.
+              <span className="font-semibold">KOMATIK UGM</span>, where I've led
+              technical teams and organized educational programs for fellow
+              students.
             </p>
 
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
@@ -64,7 +64,7 @@ export default function AboutSection() {
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
               Currently seeking{" "}
               <span className="font-semibold text-blue-600 dark:text-blue-400">
-                internship opportunities
+                internship and freelance opportunities
               </span>{" "}
               where I can contribute to impactful projects while continuing to
               grow as a backend developer and future technical leader.

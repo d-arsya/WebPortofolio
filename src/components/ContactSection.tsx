@@ -145,7 +145,7 @@ export default function ContactSection() {
               Send Email
             </a>
             <a
-              href="/CV-KAMALUDDIN-ARSYAD.pdf"
+              href="/Curricullum Vitae Kamaluddin Arsyad.pdf"
               download
               className="px-6 py-3 bg-blue-800 text-white rounded-lg font-semibold hover:bg-blue-900 transition-colors"
             >

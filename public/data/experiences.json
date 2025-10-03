@@ -1,19 +1,6 @@
 {
   "workExperience": [
     {
-      "id": 1,
-      "role": "Teaching Assistant - Web Programming Lab",
-      "organization": "Universitas Gadjah Mada",
-      "period": "2025 - Present",
-      "location": "Yogyakarta, Indonesia",
-      "responsibilities": [
-        "Developed learning modules in collaboration with faculty",
-        "Delivered lectures and practical sessions to students",
-        "Evaluated student lab reports and provided constructive feedback"
-      ],
-      "type": "work"
-    },
-    {
       "id": 2,
       "role": "Teaching Assistant - Information Technology & Computer Installation Lab",
       "organization": "Universitas Gadjah Mada",
@@ -53,15 +40,28 @@
       "type": "work"
     },
     {
+      "id": 1,
+      "role": "Teaching Assistant - Web Programming Lab",
+      "organization": "Universitas Gadjah Mada",
+      "period": "2024",
+      "location": "Yogyakarta, Indonesia",
+      "responsibilities": [
+        "Developed learning modules in collaboration with faculty",
+        "Delivered lectures and practical sessions to students",
+        "Evaluated student lab reports and provided constructive feedback"
+      ],
+      "type": "work"
+    },
+    {
       "id": 5,
       "role": "Freelance Developer",
       "organization": "Self-Employed",
       "period": "2024 - Present",
       "location": "Yogyakarta, Indonesia",
       "responsibilities": [
-        "Developed WordPress and ReactJS websites for various clients",
+        "Developed WordPress, Laravel, and ReactJS websites for various clients",
         "Managed complete project lifecycle from requirements to deployment",
-        "Delivered projects: LPPM Sintesa, Perum Golden Palm Hills, Pondok Nurul Iman, Pandangan Jogja"
+        "Delivered projects: LPPM Sintesa, Perum Golden Palm Hills, Pondok Nurul Iman, Pandangan Jogja, etc"
       ],
       "type": "work"
     }
@@ -108,19 +108,6 @@
     },
     {
       "id": 4,
-      "role": "Backend Staff (Hacker)",
-      "organization": "Google Developer Group on Campus UGM",
-      "period": "2024",
-      "location": "Yogyakarta, Indonesia",
-      "achievements": [
-        "Collaborated on full-stack project with microservice architecture",
-        "Developed RESTful APIs using Laravel",
-        "Built APIs using NestJS and NeonDB"
-      ],
-      "type": "leadership"
-    },
-    {
-      "id": 5,
       "role": "Head of IT Division",
       "organization": "Berbagi Bites Jogja",
       "period": "2024 - Present",
@@ -131,6 +118,19 @@
         "Implemented Fonnte WhatsApp Gateway for notification bot",
         "Integrated Midtrans for cash donation services",
         "Leading website migration to Next.js-Golang stack"
+      ],
+      "type": "leadership"
+    },
+    {
+      "id": 5,
+      "role": "Backend Staff (Hacker)",
+      "organization": "Google Developer Group on Campus UGM",
+      "period": "2024",
+      "location": "Yogyakarta, Indonesia",
+      "achievements": [
+        "Collaborated on full-stack project with microservice architecture",
+        "Developed RESTful APIs using Laravel",
+        "Built APIs using NestJS and NeonDB"
       ],
       "type": "leadership"
     }

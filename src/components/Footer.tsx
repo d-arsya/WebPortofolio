@@ -177,11 +177,10 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8 text-center">
           <p className="text-sm text-gray-400">
-            © {currentYear} Kamaluddin Arsyad Fadllillah. Built with Astro &
-            React.
+            © {currentYear} Kamaluddin Arsyad Fadllillah
           </p>
           <p className="text-xs text-gray-500 mt-2">
-            Available for internship opportunities
+            Available for internship opportunities and freelance projects
           </p>
         </div>
       </div>

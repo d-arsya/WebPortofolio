@@ -72,7 +72,7 @@ export default function Navigation() {
             ))}
 
             {/* Theme Toggle */}
-            <button
+            {/* <button
               onClick={toggleTheme}
               className="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
               aria-label="Toggle theme"
@@ -106,12 +106,12 @@ export default function Navigation() {
                   />
                 </svg>
               )}
-            </button>
+            </button> */}
           </div>
 
           {/* Mobile Menu Button */}
           <div className="md:hidden flex items-center gap-4">
-            <button
+            {/* <button
               onClick={toggleTheme}
               className="p-2 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200"
               aria-label="Toggle theme"
@@ -145,7 +145,7 @@ export default function Navigation() {
                   />
                 </svg>
               )}
-            </button>
+            </button> */}
 
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import experienceData from "../../public/data/work.json";
+import experienceData from "../../public/data/experiences.json";
 
 interface Experience {
   id: number;

@@ -1,54 +1,6 @@
 {
   "projects": [
     {
-      "id": 1,
-      "name": "LPPM Sintesa",
-      "type": "private",
-      "category": "Web Development",
-      "description": "Research and community service management system for academic institution",
-      "techStack": ["WordPress", "PHP", "MySQL"],
-      "liveUrl": "https://lppmsintesa.com",
-      "role": "Full Stack Developer",
-      "challenges": "Customizing WordPress to handle complex academic workflows and research proposal submissions",
-      "solutions": "Developed custom plugins and integrated third-party APIs for document management"
-    },
-    {
-      "id": 2,
-      "name": "Perum Golden Palm Hills",
-      "type": "private",
-      "category": "Web Development",
-      "description": "Corporate website for residential housing complex with property listing features",
-      "techStack": ["WordPress", "PHP", "MySQL"],
-      "liveUrl": "https://perumgoldenpalmhills.com",
-      "role": "Full Stack Developer",
-      "challenges": "Creating an attractive property showcase with smooth user experience",
-      "solutions": "Implemented custom post types and integrated map features for property locations"
-    },
-    {
-      "id": 3,
-      "name": "Pondok Nurul Iman",
-      "type": "private",
-      "category": "Web Development",
-      "description": "Islamic boarding school information system with registration and announcement features",
-      "techStack": ["WordPress", "PHP", "MySQL"],
-      "liveUrl": "https://pondoknuruliman.com",
-      "role": "Full Stack Developer",
-      "challenges": "Managing dynamic content for various educational programs and events",
-      "solutions": "Built custom content management workflow with automated notification system"
-    },
-    {
-      "id": 4,
-      "name": "Pandangan Jogja",
-      "type": "private",
-      "category": "Content Platform",
-      "description": "Local news and cultural content platform for Yogyakarta community",
-      "techStack": ["WordPress", "PHP", "MySQL"],
-      "liveUrl": "https://pandanganjogja.com",
-      "role": "Full Stack Developer",
-      "challenges": "Optimizing content delivery for high traffic and mobile responsiveness",
-      "solutions": "Implemented caching strategies and progressive web app features"
-    },
-    {
       "id": 5,
       "name": "Sistem Raport Online",
       "type": "public",
@@ -169,6 +121,54 @@
       "role": "Backend Developer",
       "challenges": "Building high-performance API for mobile app with minimal latency",
       "solutions": "Utilized FastAPI for async operations and optimized database queries for mobile constraints"
+    },
+    {
+      "id": 1,
+      "name": "LPPM Sintesa",
+      "type": "private",
+      "category": "Web Development",
+      "description": "Research and community service management system for academic institution",
+      "techStack": ["WordPress", "PHP", "MySQL"],
+      "liveUrl": "https://lppmsintesa.com",
+      "role": "Full Stack Developer",
+      "challenges": "Customizing WordPress to handle complex academic workflows and research proposal submissions",
+      "solutions": "Developed custom plugins and integrated third-party APIs for document management"
+    },
+    {
+      "id": 2,
+      "name": "Perum Golden Palm Hills",
+      "type": "private",
+      "category": "Web Development",
+      "description": "Corporate website for residential housing complex with property listing features",
+      "techStack": ["WordPress", "PHP", "MySQL"],
+      "liveUrl": "https://perumgoldenpalmhills.com",
+      "role": "Full Stack Developer",
+      "challenges": "Creating an attractive property showcase with smooth user experience",
+      "solutions": "Implemented custom post types and integrated map features for property locations"
+    },
+    {
+      "id": 3,
+      "name": "Pondok Nurul Iman",
+      "type": "private",
+      "category": "Web Development",
+      "description": "Islamic boarding school information system with registration and announcement features",
+      "techStack": ["WordPress", "PHP", "MySQL"],
+      "liveUrl": "https://pondoknuruliman.com",
+      "role": "Full Stack Developer",
+      "challenges": "Managing dynamic content for various educational programs and events",
+      "solutions": "Built custom content management workflow with automated notification system"
+    },
+    {
+      "id": 4,
+      "name": "Pandangan Jogja",
+      "type": "private",
+      "category": "Content Platform",
+      "description": "Local news and cultural content platform for Yogyakarta community",
+      "techStack": ["WordPress", "PHP", "MySQL"],
+      "liveUrl": "https://pandanganjogja.com",
+      "role": "Full Stack Developer",
+      "challenges": "Optimizing content delivery for high traffic and mobile responsiveness",
+      "solutions": "Implemented caching strategies and progressive web app features"
     }
   ]
 }

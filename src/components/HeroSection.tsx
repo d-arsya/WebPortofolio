@@ -1,6 +1,6 @@
 export default function HeroSection() {
   return (
-    <section className="min-h-screen flex items-center justify-center px-4 bg-gradient-to-br from-white to-gray-50 dark:from-gray-900 dark:to-gray-800">
+    <section className="min-h-screen flex items-center justify-center px-4 pt-18 md:pt-1 bg-gradient-to-br from-white to-gray-50 dark:from-gray-900 dark:to-gray-800">
       <div className="max-w-6xl mx-auto text-center">
         <div className="mb-8">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-4">
@@ -90,7 +90,7 @@ export default function HeroSection() {
         </div>
 
         <div className="mt-16 text-sm text-gray-500 dark:text-gray-400">
-          Available for internship opportunities
+          Available for internship and freelance opportunities
         </div>
       </div>
     </section>

@@ -43,7 +43,7 @@ export default function ProjectsSection() {
         <div className="flex justify-center gap-4 mb-12">
           <button
             onClick={() => setFilter("all")}
-            className={`px-6 py-2 rounded-full font-medium transition-all ${
+            className={`md:px-6 px-2 md:py-2 py-1 rounded-full md:text-md text-xs md:font-medium transition-all ${
               filter === "all"
                 ? "bg-blue-600 text-white"
                 : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
@@ -53,7 +53,7 @@ export default function ProjectsSection() {
           </button>
           <button
             onClick={() => setFilter("public")}
-            className={`px-6 py-2 rounded-full font-medium transition-all ${
+            className={`md:px-6 px-2 md:py-2 py-1 rounded-full md:text-md text-xs md:font-medium transition-all ${
               filter === "public"
                 ? "bg-blue-600 text-white"
                 : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
@@ -63,7 +63,7 @@ export default function ProjectsSection() {
           </button>
           <button
             onClick={() => setFilter("private")}
-            className={`px-6 py-2 rounded-full font-medium transition-all ${
+            className={`md:px-6 px-2 md:py-2 py-1 rounded-full md:text-md text-xs md:font-medium transition-all ${
               filter === "private"
                 ? "bg-blue-600 text-white"
                 : "bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
@@ -87,7 +87,7 @@ export default function ProjectsSection() {
                     {project.name}
                   </h3>
                   <span
-                    className={`px-3 py-1 text-xs font-semibold rounded-full ${
+                    className={`px-3 py-1 text-xs font-semibold text-center rounded-full ${
                       project.type === "public"
                         ? "bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-300"
                         : "bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-300"
