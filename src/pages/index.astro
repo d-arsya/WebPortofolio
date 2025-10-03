@@ -1,16 +1,46 @@
 ---
-
+import Navigation from '../components/Navigation';
+import HeroSection from '../components/HeroSection';
+import AboutSection from '../components/AboutSection';
+import ExperienceSection from '../components/ExperienceSection';
+import ProjectsSection from '../components/ProjectsSection';
+import ContactSection from '../components/ContactSection';
+import Footer from '../components/Footer';
+import "../styles/global.css"
 ---
 
+<!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content="Kamaluddin Arsyad Fadllillah - Backend Developer & Tech Leader. Software Engineering student at Universitas Gadjah Mada specializing in Laravel, NestJS, FastAPI, and Golang." />
+    <meta name="keywords" content="Backend Developer, Fullstack Developer, Software Engineer, Laravel, NestJS, FastAPI, Golang, React, Next.js, UGM" />
+    <meta name="author" content="Kamaluddin Arsyad Fadllillah" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Kamaluddin Arsyad - Backend Developer & Tech Leader" />
+    <meta property="og:description" content="Software Engineering student at UGM specializing in backend development with Laravel, NestJS, and FastAPI." />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content="Kamaluddin Arsyad - Backend Developer & Tech Leader" />
+    <meta property="twitter:description" content="Software Engineering student at UGM specializing in backend development." />
+    
+    <title>Kamaluddin Arsyad - Backend Developer & Tech Leader</title>
+  </head>
+  <body>
+    <Navigation client:load />
+    <main>
+      <HeroSection client:visible />
+      <AboutSection client:visible />
+      <ExperienceSection client:visible />
+      <ProjectsSection client:visible />
+      <ContactSection client:visible />
+    </main>
+    <Footer />
+  </body>
 </html>

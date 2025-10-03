@@ -1,0 +1,158 @@
+{
+  "workExperience": [
+    {
+      "id": 1,
+      "role": "Teaching Assistant - Web Programming Lab",
+      "organization": "Universitas Gadjah Mada",
+      "period": "2025 - Present",
+      "location": "Yogyakarta, Indonesia",
+      "responsibilities": [
+        "Developed learning modules in collaboration with faculty",
+        "Delivered lectures and practical sessions to students",
+        "Evaluated student lab reports and provided constructive feedback"
+      ],
+      "type": "work"
+    },
+    {
+      "id": 2,
+      "role": "Teaching Assistant - Information Technology & Computer Installation Lab",
+      "organization": "Universitas Gadjah Mada",
+      "period": "2024 - Present",
+      "location": "Yogyakarta, Indonesia",
+      "responsibilities": [
+        "Guided students through IT fundamentals and computer hardware installation",
+        "Supervised lab sessions and troubleshooted technical issues",
+        "Assessed student performance in practical assignments"
+      ],
+      "type": "work"
+    },
+    {
+      "id": 3,
+      "role": "Teaching Assistant - Introduction to Information Technology",
+      "organization": "Universitas Gadjah Mada",
+      "period": "2025 - Present",
+      "location": "Yogyakarta, Indonesia",
+      "responsibilities": [
+        "Introduced fundamental IT concepts to first-year students",
+        "Facilitated hands-on learning activities",
+        "Provided academic support and mentoring"
+      ],
+      "type": "work"
+    },
+    {
+      "id": 4,
+      "role": "Teaching Assistant - Algorithms and Programming",
+      "organization": "Universitas Gadjah Mada",
+      "period": "2025 - Present",
+      "location": "Yogyakarta, Indonesia",
+      "responsibilities": [
+        "Taught programming fundamentals and algorithmic thinking",
+        "Conducted code reviews and debugging sessions",
+        "Prepared exercises and assessment materials"
+      ],
+      "type": "work"
+    },
+    {
+      "id": 5,
+      "role": "Freelance Developer",
+      "organization": "Self-Employed",
+      "period": "2024 - Present",
+      "location": "Yogyakarta, Indonesia",
+      "responsibilities": [
+        "Developed WordPress and ReactJS websites for various clients",
+        "Managed complete project lifecycle from requirements to deployment",
+        "Delivered projects: LPPM Sintesa, Perum Golden Palm Hills, Pondok Nurul Iman, Pandangan Jogja"
+      ],
+      "type": "work"
+    }
+  ],
+  "organizationalLeadership": [
+    {
+      "id": 1,
+      "role": "Vice Head of Division - Human Resource Development",
+      "organization": "KMTEDI (Electrical Engineering & Informatics Student Family)",
+      "period": "2025 - Present",
+      "location": "Yogyakarta, Indonesia",
+      "achievements": [
+        "Organized upgrading programs for all KMTEDI members",
+        "Led open recruitment for new members",
+        "Conducted staff evaluations and performance reviews"
+      ],
+      "type": "leadership"
+    },
+    {
+      "id": 2,
+      "role": "Head of Division - Science & Technology",
+      "organization": "ASSETS UGM (Association of Software Engineering Students)",
+      "period": "2025 - Present",
+      "location": "Yogyakarta, Indonesia",
+      "achievements": [
+        "Leading development of departmental website using Laravel",
+        "Conducting workshops on fullstack frameworks and project management",
+        "Managing technical projects for the organization"
+      ],
+      "type": "leadership"
+    },
+    {
+      "id": 3,
+      "role": "Head of Division - Competitive Programming",
+      "organization": "Komunitas Mahasiswa TIK UGM",
+      "period": "2024",
+      "location": "Yogyakarta, Indonesia",
+      "achievements": [
+        "Developed 1-year curriculum for competitive programming training",
+        "Delivered training sessions to members",
+        "Selected and prepared members for Gemastik competition"
+      ],
+      "type": "leadership"
+    },
+    {
+      "id": 4,
+      "role": "Backend Staff (Hacker)",
+      "organization": "Google Developer Group on Campus UGM",
+      "period": "2024",
+      "location": "Yogyakarta, Indonesia",
+      "achievements": [
+        "Collaborated on full-stack project with microservice architecture",
+        "Developed RESTful APIs using Laravel",
+        "Built APIs using NestJS and NeonDB"
+      ],
+      "type": "leadership"
+    },
+    {
+      "id": 5,
+      "role": "Head of IT Division",
+      "organization": "Berbagi Bites Jogja",
+      "period": "2024 - Present",
+      "location": "Yogyakarta, Indonesia",
+      "achievements": [
+        "Built fullstack food donation system using Laravel",
+        "Integrated Google Drive API for document management",
+        "Implemented Fonnte WhatsApp Gateway for notification bot",
+        "Integrated Midtrans for cash donation services",
+        "Leading website migration to Next.js-Golang stack"
+      ],
+      "type": "leadership"
+    }
+  ],
+  "committees": [
+    {
+      "id": 1,
+      "role": "Event Coordinator",
+      "event": "Tech Enthusiast Day 2024",
+      "period": "2024",
+      "location": "Yogyakarta, Indonesia",
+      "description": "Coordinated with all divisions for event preparation and execution. Event featured 190 teams competing in 6 different competitions.",
+      "type": "committee"
+    },
+    {
+      "id": 2,
+      "role": "Event Staff",
+      "event": "Ramadhan Di Kampus 2024",
+      "period": "2024",
+      "location": "Yogyakarta, Indonesia",
+      "description": "Secured speakers for pre-iftar lectures and coordinated congregation flow management. Event ran for 30 days with 3 months of preparation.",
+      "type": "committee"
+    }
+  ]
+}
